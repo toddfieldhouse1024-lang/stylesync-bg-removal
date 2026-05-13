@@ -3,7 +3,8 @@ uvicorn
 torch
 torchvision
 pillow
-transformers
+transformers==4.37.2
 huggingface_hub
 python-multipart
-numpy
+einops
+timm
